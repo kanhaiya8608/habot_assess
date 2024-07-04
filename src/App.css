@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply Poppins font to all elements */
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Apply Inter font to specific elements */
+.inter-font {
+    font-family: 'Inter', sans-serif;
+}
